@@ -1,0 +1,7 @@
+    {
+      "versioninfo": {
+	  "latest": "garage_door_101",
+	  "upgrade": ["garage_door_100"],
+	  "polling": "1"
+      }
+    }
