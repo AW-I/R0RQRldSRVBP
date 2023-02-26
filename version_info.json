@@ -3,6 +3,6 @@
         "latest": "V1.00",
         "upgrade": ["V1.01"],
         "polling": "1",
-        "optional": "0"
+        "optional": "1"
       }
     }
