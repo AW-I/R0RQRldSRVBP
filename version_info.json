@@ -1,7 +1,7 @@
     {
       "versioninfo": {
         "latest": "V1.00",
-        "upgrade": ["V1.01"],
+        "upgrade": ["V1.00"],
         "polling": "1",
         "optional": "1"
       }
